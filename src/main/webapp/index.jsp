@@ -9,12 +9,12 @@
 <body>
     <div class="container">
         <div class="jumbotron">
-            <h1>Tata Consultancy Services</h1>
+            <h1>Globant India Pvt Ltd</h1>
             <hr>
-            <h2>DevOps & Docker Containers</h2>
+            <h2>CLoudops Studio</h2>
             <br>
-            <h6>Snehangshu Bhattacharya CT20172216668<h6>
-            <h6>Aritra Roy Gosthipaty CT20172207267<h6>
+            <h6>Pune HinjewadiCT20172216668<h6>
+            <h6>Sameer Deshmukh<h6>
         </div>
         <a href="/hello" class="btn btn-primary">MySQL DataBase</a>
     </div>
